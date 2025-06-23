@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /profile
+Disallow: /appointments
+Disallow: /api/
+
+Sitemap: https://shareup.com.br/sitemap.xml
